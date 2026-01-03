@@ -1,0 +1,5 @@
+{
+  "name": "Living Interface",
+  "description": "An emotionally adaptive web interface that changes its visual tone, motion, and layout based on the sentiment of user input using Gemini API.",
+  "requestFramePermissions": []
+}
