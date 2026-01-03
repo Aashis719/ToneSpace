@@ -2,7 +2,7 @@
 
 ### **A Generative Mirror for the Human Emotions**
 
-ToneSpace is an emotionally responsive digital environment that bridges the gap between abstract sentiment and tangible form. It translates your internal world—expressed through text—into a living landscape of color, generative sound, and motion.
+ToneSpace is an emotionally responsive digital environment that bridges the gap between abstract sentiment and tangible form. It translates your internal world expressed through text into a living landscape of color, generative sound, and motion.
 
 ![ToneSpace Homepage](./Homepage.png)
 
