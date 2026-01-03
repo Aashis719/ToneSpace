@@ -9,6 +9,8 @@ import { AudioEngine } from './components/AudioEngine';
 import { AudioToggle } from './components/AudioToggle';
 import { Footer } from './components/Footer';
 import { LoadingScreen } from './components/LoadingScreen';
+import { Analytics } from '@vercel/analytics/react'
+
 
 const INITIAL_EMOTION: EmotionState = {
   primaryEmotion: 'Waiting',
@@ -134,6 +136,7 @@ export default function App() {
         </div>
       </main>
       <Footer emotion={emotion} />
+            <Analytics />
     </>
   );
 }
