@@ -10,7 +10,7 @@ export const LoadingScreen: React.FC = () => {
             setTimeout(() => setIsVisible(false), 1000);
         }, 2200);
 
-        return () => clearTimeout(timer);
+        return () => clearTimeout(timer); 
     }, []);
 
     if (!isVisible) return null;
