@@ -110,7 +110,7 @@ export const Footer: React.FC<FooterProps> = ({ emotion }) => {
                                     Tone <span className="italic block mt-1" style={{ color: emotion.accentColor }}>Space</span>
                                 </h2>
                                 <p className="text-lg md:text-xl opacity-70 leading-relaxed font-light max-w-lg">
-                                    A generative mirror designed to bridge the gap between abstract human sentiment and digital form.
+                                    A generative mirror designed to bridge the gap between abstract human sentiment and digital form. 
                                 </p>
                             </header>
 
