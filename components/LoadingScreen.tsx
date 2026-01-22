@@ -22,7 +22,7 @@ export const LoadingScreen: React.FC = () => {
                 <div className="relative w-12 h-12 flex items-center justify-center">
                     <div className="absolute inset-0 rounded-full border border-black/10 animate-ping" />
                     <div className="w-2 h-2 rounded-full bg-black/60" />
-                </div>
+                </div> 
 
                 {/* Branding */}
                 <div className="text-center overflow-hidden">
